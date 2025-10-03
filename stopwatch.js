@@ -48,6 +48,5 @@ function lap() {
     document.getElementById("laps").appendChild(li);
   }
 }
-
-// Initialize
 updateDisplay();
+
